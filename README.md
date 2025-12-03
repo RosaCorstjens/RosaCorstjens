@@ -15,7 +15,8 @@ I build tools, prototypes, and procedural worlds — usually in Unity, sometimes
 - Unity, C#
 - DirectX 11, C++
 - Processing, Java
-- Microsoft Excel, VBA (no ask me about it)
+- RStudio
+- Microsoft Excel, VBA 
 - Godot, C++ (just experimental)
 - Notion API (current hyperfixation)
 

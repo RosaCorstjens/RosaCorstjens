@@ -1,4 +1,4 @@
-## H, I'm Rosa 🌿
+## Hi, I'm Rosa 🌿
 
 Game developer & HKU lecturer working at the intersection of real-time graphics, procedural content generation and prototypes.  
 I build tools, prototypes, and procedural worlds — usually in Unity, sometimes in other environments for fun (and pain).

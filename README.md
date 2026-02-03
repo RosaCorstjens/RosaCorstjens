@@ -30,7 +30,9 @@ Plants, cats, thread-related crafts, chamomile tea, math, reading, modern dance,
 
 ---
 
-If you like weird prototypes, graphics, procedural content, or educational resources — welcome in. But for now, thanks for stopping by! Have a bug-free day ✨
+If you like weird prototypes, graphics, procedural content, or educational resources — welcome in. But for now, thanks for stopping by! 
+
+Have a bug-free day ✨
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZ5Mmk3dnZrbGc4amNxZ3FqZGhnZ21kYXlvZmV2Y3hya2tkY25wZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRWGGOpnCLeABrIxxn/giphy.gif" width="80" />
 

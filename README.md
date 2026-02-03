@@ -20,20 +20,17 @@ I build tools, prototypes, and procedural worlds — usually in Unity, sometimes
 - Godot, C++ (just experimental)
 - Notion API (current hyperfixation)
 
-### Current experiments
-- Prototyping for [Serentiy Sketch](.https://meditativegames.itch.io/serenitysketch)
-- Procedural generation with grammars  
-- Notion widgets from scratch (no paywalls, only vibes)  
-- DirectX 11 rendering sandbox  
-- Forever improving assignments for my students (and making my own solutions) 
-- Anything that feels a little too ambitious but irresistible
+### Current crazes
+- Working on [Serentiy Sketch](.https://meditativegames.itch.io/serenitysketch)  
+- Organizing and automating my life in data with Notion and Excel 
+- Forever improving assignments and lessons for my students (and having a blast with my own solutions) 
 
 ### Other joys
-Plants, cats, embroidery, chamomile tea, cozy aesthetics, math, reading, and making complex concepts make sense.
+Plants, cats, thread-related crafts, chamomile tea, math, reading, modern dance, ...
 
 ---
 
-If you like weird prototypes, graphics, procedural content, or educational resources — welcome in. But for now, thanks for stopping by! Have a wonderful, creative, bug-free day ✨
+If you like weird prototypes, graphics, procedural content, or educational resources — welcome in. But for now, thanks for stopping by! Have a bug-free day ✨
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZ5Mmk3dnZrbGc4amNxZ3FqZGhnZ21kYXlvZmV2Y3hya2tkY25wZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRWGGOpnCLeABrIxxn/giphy.gif" width="80" />
 
